@@ -1,3 +1,4 @@
-Just another file in feature-1 branch.
+This line is replaced in feature-2.
 
 This file has modified locally.
+This line is added in feature-2 branch
